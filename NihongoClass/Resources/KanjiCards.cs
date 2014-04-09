@@ -61,8 +61,9 @@ namespace NihongoClass.Resources
             Add("雨", "あめ");
 
             Add("日", "ひ");
-            Add("十日", "xxxx");
-            Add("二日", "xxxx");
+            Add("一日", "ついたち");
+            Add("二日", "ふつか");
+            Add("十日", "とおか");
             Add("日曜日", "にちようび");
             Add("月曜日", "げつようび");
             Add("火曜日", "かようび");
@@ -80,7 +81,7 @@ namespace NihongoClass.Resources
             Add("何月", "なんげつ");
             Add("毎月", "まいげつ");
             //Add("先月", "せんげつ");
-            Add("今月", "こんげつ");
+            //Add("今月", "こんげつ");
             //Add("来月", "らいげつ");
 
             Add("見る", "みる");
