@@ -85,9 +85,8 @@ namespace NihongoClass.Resources
             //Add("来月", "らいげつ");
 
             Add("見る", "みる");
-            Add("語", "ご");
             Add("語る", "かたる");
-            Add("言語", "げんご");
+            //Add("言語", "げんご");
             Add("読む", "よむ");
             Add("話す", "はなす");
             Add("聞く", "きく");
@@ -95,7 +94,7 @@ namespace NihongoClass.Resources
             Add("日本", "にほん");
             Add("日本語", "にほんご");
             Add("日本人", "にほんじん");
-            Add("英語", "えいご");
+            //Add("英語", "えいご");
 
 
             Add("下", "した");
@@ -103,6 +102,7 @@ namespace NihongoClass.Resources
             Add("中", "なか");
             Add("外", "そと");
             Add("大", "おお");
+            Add("大きな", "おおきな");
             Add("手", "て");
             Add("右", "みぎ");
             Add("右手", "みぎて");
@@ -117,8 +117,9 @@ namespace NihongoClass.Resources
             Add("男の子", "おとこのこ");
 
             Add("学生", "がくせい");
+            Add("先生", "せんせい");
             Add("語学", "ごがく");
-            Add("大学", "だいがく");
+            Add("大学", "だいがく"); 
 
             //Add("xxxx", "xxxx");
             //Add("xxxx", "xxxx");
